@@ -1,0 +1,76 @@
+{
+  "driver": {
+    "name": "Kajus",
+    "surname": "Zeynalov",
+    "number": "99",
+    "country": "Lithuania"
+  },
+  "economy": {
+    "money_balance": 28,
+    "upgrade_inventory": {
+      "Overtaking Upgrade": 1,
+      "Defending Upgrade": 1,
+      "Qualifying Upgrade": 0,
+      "Race Start Upgrade": 1,
+      "Tyre Management Upgrade": 0
+    },
+    "upgrade_levels": {
+      "Overtaking Upgrade": 0,
+      "Defending Upgrade": 0,
+      "Qualifying Upgrade": 0,
+      "Race Start Upgrade": 0,
+      "Tyre Management Upgrade": 0
+    }
+  },
+  "car_development": {
+    "car_part_tiers": {
+      "Front Wing": 0,
+      "Brakes": 0,
+      "Suspension": 0,
+      "Rear Wing": 0,
+      "Gearbox": 0,
+      "Engine": 0,
+      "Battery": 0
+    },
+    "teammate_car_tiers": {
+      "Front Wing": 5,
+      "Brakes": 5,
+      "Suspension": 4,
+      "Rear Wing": 3,
+      "Gearbox": 4,
+      "Engine": 5,
+      "Battery": 5
+    }
+  },
+  "meta": {
+    "winning_team_name": "Red Bull",
+    "teammate_result": "Yuki Tsunoda",
+    "season_gp_index": 1,
+    "championship_points": {
+      "__PLAYER__::KZEY": 0,
+      "drv::Yuki Tsunoda": 2,
+      "drv::Charles Leclerc": 18,
+      "drv::Lewis Hamilton": 13,
+      "drv::Lando Norris": 15,
+      "drv::Oscar Piastri": 25,
+      "drv::George Russell": 10,
+      "drv::Kimi Antonelli": 8,
+      "drv::Fernando Alonso": 6,
+      "drv::Lance Stroll": 0,
+      "drv::Pierre Gasly": 0,
+      "drv::Jack Doohan": 0,
+      "drv::Liam Lawson": 0,
+      "drv::Isack Hadjar": 0,
+      "drv::Esteban Ocon": 0,
+      "drv::Oliver Bearman": 0,
+      "drv::Alex Albon": 1,
+      "drv::Carlos Sainz": 4,
+      "drv::Nico Hulkenberg": 0,
+      "drv::Gabriel Bortoleto": 0
+    },
+    "career_profile_unlocked": true,
+    "season_started_once": true,
+    "signing_bonus_given": true,
+    "selected_offer_name": "Nike"
+  }
+}

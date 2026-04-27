@@ -1,0 +1,15 @@
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+exclude = ["import pygame.py"]
+
+[tool.ruff.lint]
+# PEP 8: E, W; papildomai F (pyflakes), I (isort)
+select = ["E", "W", "F", "I"]
+ignore = [
+  "E501", # eilučių ilgį kartais paliekame, jei skaitoma geriau
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
